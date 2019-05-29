@@ -1,2 +1,4 @@
 # Recursive-number-list
-testing branching edits
+Program.cs is the file with all the code.
+
+Visual studio project folder contains the whole proram.
