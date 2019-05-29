@@ -1,0 +1,7 @@
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\bin\Debug\Recursive Number List.exe.config
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\bin\Debug\Recursive Number List.exe
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\bin\Debug\Recursive Number List.pdb
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\obj\Debug\Recursive Number List.csprojAssemblyReference.cache
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\obj\Debug\Recursive Number List.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\obj\Debug\Recursive Number List.exe
+C:\Users\Aurimas\source\repos\Recursive Number List\Recursive Number List\obj\Debug\Recursive Number List.pdb
